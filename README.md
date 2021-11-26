@@ -1,2 +1,2 @@
 # Dicee_Game
-Play whatever you want
+Click (Reload this page) And have fun
